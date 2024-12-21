@@ -83,6 +83,7 @@
                 android:layout_marginTop="15dp"
                 android:layout_marginLeft="30dp"/>
             <TextView
+                android:id="@+id/member1"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Nguyễn Thanh Bình. MSV:22115053122305"
@@ -91,6 +92,7 @@
                 android:layout_marginLeft="15dp"
                 android:layout_marginTop="20dp"/>
             <TextView
+                android:id="@+id/member2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Lê Thị Kim Ngân. MSV:22115053122324"
@@ -99,6 +101,7 @@
                 android:layout_marginLeft="15dp"
                 android:layout_marginTop="20dp"/>
             <TextView
+                android:id="@+id/member3"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Cái Thị Nhân Đức. MSV:22115053122309"
